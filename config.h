@@ -107,7 +107,9 @@ static const char *colorname[] = {
 	"magenta3",
 	"cyan3",
 	/* "gray90", */
-	"#222222",
+	"#AF9F86",
+	/* "#222222", */
+	/* "#dad2c8", */
 
 	/* 8 bright colors */
 	"gray50",
@@ -118,7 +120,8 @@ static const char *colorname[] = {
 	"magenta",
 	"cyan",
 	/* "white", */
-	"#dad2c8",
+	/* "#dad2c8", */
+	"#FFEEE7",
 
 	[255] = 0,
 
